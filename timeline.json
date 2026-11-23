@@ -1,0 +1,67 @@
+{
+ "polar": [
+  {
+   "name": "LumenBook",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "📖"
+  },
+  {
+   "name": "LumenDraw",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "🎨"
+  },
+  {
+   "name": "LumenEditor",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "🎬"
+  },
+  {
+   "name": "Pulsar",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "🎮"
+  },
+  {
+   "name": "PulsarTV",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "📺"
+  },
+  {
+   "name": "Roylo Chat",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "💬"
+  },
+  {
+   "name": "Roylo Novel",
+   "t": 1795304508000,
+   "v": "2026.11.21-2037",
+   "orig": false,
+   "icon": "📚"
+  },
+  {
+   "name": "LumenCoder",
+   "t": 1795379104000,
+   "v": "2026.11.22-1720",
+   "orig": false,
+   "icon": "💻"
+  },
+  {
+   "name": "LumenModel3D",
+   "t": 1795439337506,
+   "v": "2026.11.23-1004",
+   "orig": false,
+   "icon": "🧊"
+  }
+ ]
+}
