@@ -56,6 +56,22 @@
     "PulsarTV"
    ],
    "notes": "Correções:\n- LumenDraw: o ✓ Aplicar voltou a funcionar depois de mover ou redimensionar um desenho (antes o desenho sumia).\n- LumenDraw: desfazer no meio de um movimento cancela e devolve o desenho; sair do projeto com um movimento pendente aplica em vez de perder.\n- Página de download: notas de cada versão embaixo dos gráficos e uma frase sobre o que cada app faz na linha do tempo.\n\nApp gerado por IA (Claude, da Anthropic)."
+  },
+  {
+   "t": 1795443763005,
+   "v": "2026.11.23-1119",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV"
+   ],
+   "notes": "Versão 2026.11.23-1119\n\nArquivos:\n- Polar.apk (2.4 MB)\n- Polar-Setup.exe (139.9 MB)\n- Polar-PC.zip (200.6 MB)"
   }
  ]
 }
