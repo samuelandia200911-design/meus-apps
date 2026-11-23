@@ -2,23 +2,28 @@
  "polar": [
   {
    "t": 1795304508000,
-   "v": "2026.11.21-2037"
+   "v": "2026.11.21-2037",
+   "notes": "## Polar\n\n> **Aviso: este app foi gerado por inteligência artificial.** Todo o código do Polar e dos apps que vêm dentro dele foi escrito pelo Claude (IA da Anthropic), a pedido do autor. Os testes foram limitados, então podem existir erros. Use por sua conta e risco e faça backup dos seus arquivos. Este não é um produto oficial da Anthropic.\n\nO Polar é uma central de apps que liga o celular Android ao PC com Windows. No PC, os apps abrem em abas dentro do Polar. No celular, um único APK traz todos os apps.\n\n### Apps incluídos\n- **LumenDraw**: desenho e animação quadro a quadro, pincéis baixados da internet e histórias em quadrinhos com exportação em PDF.\n- **LumenBook**: escrita de livros e roteiros, com imagens e quadros.\n- **LumenEditor**: editor de vídeo com estúdio de som.\n- **Roylo Chat**: roleplay com IA que roda no próprio aparelho ou no PC, com modos Fantasia e Realista, sobrenomes, papéis na história, identidades secretas e arcos de história.\n- **Roylo Novel**: a versão visual novel do Roylo, com sprites de expressões (também para a identidade secreta) e cenários.\n- **Pulsar**: jogos do PC no celular, emuladores e capas automáticas.\n- **PulsarTV**: streamings num só catálogo, filmes e séries baixados, canais de TV personalizados e Twitch.\n\n### O que o Polar faz\n- Pareia o celular com o PC por um código de 6 dígitos. O endereço do PC só é configurado uma vez, no Polar.\n- Conecta pelo Wi-Fi de casa, de longe (Tailscale) ou de perto, sem Wi-Fi, por cabo USB ou Bluetooth (ancoragem).\n- Abrir um app no celular abre o mesmo app no PC, e fechar no celular fecha no PC.\n- Controla o PC pelo celular: fechar todos os programas e reiniciar o PC (só quando o Polar está configurado para iniciar com o Windows).\n- Instala e atualiza os apps do PC pelo celular.\n- Idiomas: inglês e português.\n\n### Arquivos\n- **Polar.apk**: Android.\n- **Polar-Setup.exe**: instalador para Windows.\n- **Polar-PC.zip**: versão portátil para Windows (é só extrair e abrir).\n\n### Requisitos\n- Windows 10 ou 11 (64 bits) e um celular Android.\n- A IA do Roylo precisa de um aparelho com placa de vídeo compatível com WebGPU ou de memória RAM suficiente no PC.\n\n---\n*Feito com IA (Claude, da Anthropic).*"
   },
   {
    "t": 1795357725000,
-   "v": "2026.11.22-1124"
+   "v": "2026.11.22-1124",
+   "notes": "## Polar\n\n> **Aviso: este app foi gerado por inteligência artificial.** Todo o código do Polar e dos apps que vêm dentro dele foi escrito pelo Claude (IA da Anthropic), a pedido do autor. Os testes foram limitados, então podem existir erros. Use por sua conta e risco e faça backup dos seus arquivos. Este não é um produto oficial da Anthropic.\n\nO Polar é uma central de apps que liga o celular Android ao PC com Windows. No PC, os apps abrem em abas dentro do Polar. No celular, um único APK traz todos os apps.\n\n### Apps incluídos\n- **LumenDraw**: desenho e animação quadro a quadro, pincéis baixados da internet e histórias em quadrinhos com exportação em PDF.\n- **LumenBook**: escrita de livros e roteiros, com imagens e quadros.\n- **LumenEditor**: editor de vídeo com estúdio de som.\n- **Roylo Chat**: roleplay com IA que roda no próprio aparelho ou no PC, com modos Fantasia e Realista, sobrenomes, papéis na história, identidades secretas e arcos de história.\n- **Roylo Novel**: a versão visual novel do Roylo, com sprites de expressões (também para a identidade secreta) e cenários.\n- **Pulsar**: jogos do PC no celular, emuladores e capas automáticas.\n- **PulsarTV**: streamings num só catálogo, filmes e séries baixados, canais de TV personalizados e Twitch.\n\n### O que o Polar faz\n- Pareia o celular com o PC por um código de 6 dígitos. O endereço do PC só é configurado uma vez, no Polar.\n- Conecta pelo Wi-Fi de casa, de longe (Tailscale) ou de perto, sem Wi-Fi, por cabo USB ou Bluetooth (ancoragem).\n- Abrir um app no celular abre o mesmo app no PC, e fechar no celular fecha no PC.\n- Controla o PC pelo celular: fechar todos os programas e reiniciar o PC (só quando o Polar está configurado para iniciar com o Windows).\n- Instala e atualiza os apps do PC pelo celular.\n- Idiomas: inglês e português.\n\n### Arquivos\n- **Polar.apk**: Android.\n- **Polar-Setup.exe**: instalador para Windows.\n- **Polar-PC.zip**: versão portátil para Windows (é só extrair e abrir).\n\n### Requisitos\n- Windows 10 ou 11 (64 bits) e um celular Android.\n- A IA do Roylo precisa de um aparelho com placa de vídeo compatível com WebGPU ou de memória RAM suficiente no PC.\n\n---\n*Feito com IA (Claude, da Anthropic).*"
   },
   {
    "t": 1795362618000,
-   "v": "2026.11.22-1245"
+   "v": "2026.11.22-1245",
+   "notes": "## Polar\n\n> **Aviso: este app foi gerado por inteligência artificial.** Todo o código do Polar e dos apps que vêm dentro dele foi escrito pelo Claude (IA da Anthropic), a pedido do autor. Os testes foram limitados, então podem existir erros. Use por sua conta e risco e faça backup dos seus arquivos. Este não é um produto oficial da Anthropic.\n\nO Polar é uma central de apps que liga o celular Android ao PC com Windows. No PC, os apps abrem em abas dentro do Polar. No celular, um único APK traz todos os apps.\n\n### Apps incluídos\n- **LumenDraw**: desenho e animação quadro a quadro, pincéis baixados da internet e histórias em quadrinhos com exportação em PDF.\n- **LumenBook**: escrita de livros e roteiros, com imagens e quadros.\n- **LumenEditor**: editor de vídeo com estúdio de som.\n- **Roylo Chat**: roleplay com IA que roda no próprio aparelho ou no PC, com modos Fantasia e Realista, sobrenomes, papéis na história, identidades secretas e arcos de história.\n- **Roylo Novel**: a versão visual novel do Roylo, com sprites de expressões (também para a identidade secreta) e cenários.\n- **Pulsar**: jogos do PC no celular, emuladores e capas automáticas.\n- **PulsarTV**: streamings num só catálogo, filmes e séries baixados, canais de TV personalizados e Twitch.\n\n### O que o Polar faz\n- Pareia o celular com o PC por um código de 6 dígitos. O endereço do PC só é configurado uma vez, no Polar.\n- Conecta pelo Wi-Fi de casa, de longe (Tailscale) ou de perto, sem Wi-Fi, por cabo USB ou Bluetooth (ancoragem).\n- Abrir um app no celular abre o mesmo app no PC, e fechar no celular fecha no PC.\n- Controla o PC pelo celular: fechar todos os programas e reiniciar o PC (só quando o Polar está configurado para iniciar com o Windows).\n- Instala e atualiza os apps do PC pelo celular.\n- Idiomas: inglês e português.\n\n### Arquivos\n- **Polar.apk**: Android.\n- **Polar-Setup.exe**: instalador para Windows.\n- **Polar-PC.zip**: versão portátil para Windows (é só extrair e abrir).\n\n### Requisitos\n- Windows 10 ou 11 (64 bits) e um celular Android.\n- A IA do Roylo precisa de um aparelho com placa de vídeo compatível com WebGPU ou de memória RAM suficiente no PC.\n\n---\n*Feito com IA (Claude, da Anthropic).*"
   },
   {
    "t": 1795373935000,
-   "v": "2026.11.22-1556"
+   "v": "2026.11.22-1556",
+   "notes": "## Polar\n\n> **Aviso: este app foi gerado por inteligência artificial.** Todo o código do Polar e dos apps que vêm dentro dele foi escrito pelo Claude (IA da Anthropic), a pedido do autor. Os testes foram limitados, então podem existir erros. Use por sua conta e risco e faça backup dos seus arquivos. Este não é um produto oficial da Anthropic.\n\nO Polar é uma central de apps que liga o celular Android ao PC com Windows. No PC, os apps abrem em abas dentro do Polar. No celular, um único APK traz todos os apps.\n\n### Apps incluídos\n- **LumenDraw**: desenho e animação quadro a quadro, pincéis baixados da internet, histórias em quadrinhos com exportação em PDF e storyboards com notas de cena, animatic e exportação em PDF e MP4.\n- **LumenBook**: escrita de livros e roteiros, com imagens e quadros.\n- **LumenEditor**: editor de vídeo com estúdio de som.\n- **Roylo Chat**: roleplay com IA que roda no próprio aparelho ou no PC, com modos Fantasia, Realista e Simples, sobrenomes, papéis na história, identidades secretas e arcos de história fixos ou ramificados.\n- **Roylo Novel**: a versão visual novel do Roylo, com sprites de expressões (também para a identidade secreta) e cenários ligados à história.\n- **Pulsar**: jogos do PC no celular, emuladores e capas automáticas.\n- **PulsarTV**: streamings num só catálogo, filmes e séries baixados, canais de TV personalizados e Twitch.\n\n### O que o Polar faz\n- Pareia o celular com o PC por um código de 6 dígitos. O endereço do PC só é configurado uma vez, no Polar.\n- Conecta pelo Wi-Fi de casa, de longe (Tailscale) ou de perto, sem Wi-Fi, por cabo USB ou Bluetooth (ancoragem).\n- Abrir um app no celular abre o mesmo app no PC, e fechar no celular fecha no PC.\n- Controla o PC pelo celular: fechar todos os programas e reiniciar o PC (só quando o Polar está configurado para iniciar com o Windows).\n- Instala e atualiza os apps do PC pelo celular.\n- Idiomas: inglês e português.\n\n### Arquivos\n- **Polar.apk**: Android.\n- **Polar-Setup.exe**: instalador para Windows.\n- **Polar-PC.zip**: versão portátil para Windows (é só extrair e abrir).\n\n### Requisitos\n- Windows 10 ou 11 (64 bits) e um celular Android.\n- A IA do Roylo precisa de um aparelho com placa de vídeo compatível com WebGPU ou de memória RAM suficiente no PC.\n\n---\n*Feito com IA (Claude, da Anthropic).*"
   },
   {
    "t": 1795379104000,
-   "v": "2026.11.22-1720"
+   "v": "2026.11.22-1720",
+   "notes": "Novidades:\n• LumenCoder (novo, grátis): programe em Python no PC e no celular. Roda com o Python do PC (ou no próprio aparelho), cola código de IA arrumando aspas, tabs e arquivos, acha e instala os pacotes e copia o erro pronto para a IA.\n• Mods: o LumenCoder muda qualquer app do Polar só na sua versão (o original nunca é mexido). Exporte e importe mods (.polarmod).\n• Mod Manager no Polar (PC e celular): ligar/desligar, remover, instalar de arquivo e mods oficiais.\n• Memória do PC: monitor de RAM ao vivo (com histórico e programas que mais usam) e fechar processos em segundo plano, pelo PC ou pelo celular.\n• Interfaces mais bonitas nos apps Lumen, Pulsar e no Polar.\n• LumenDraw: botão da caneta configurável e criador de sprites para o RoyloNovel.\n• Roylo: Books compartilháveis, roupas nos sprites do RoyloNovel e menos personagens falando ao mesmo tempo.\n\nAviso: este app foi gerado por IA (Claude, da Anthropic)."
   },
   {
    "t": 1795439337506,
@@ -33,7 +38,24 @@
     "Roylo Novel",
     "Pulsar",
     "PulsarTV"
-   ]
+   ],
+   "notes": "Versão 2026.11.23-1004\n\nArquivos:\n- Polar.apk (2.4 MB)\n- Polar-Setup.exe (139.9 MB)\n- Polar-PC.zip (200.6 MB)"
+  },
+  {
+   "t": 1795442138125,
+   "v": "2026.11.23-1050",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV"
+   ],
+   "notes": "Correções:\n- LumenDraw: o ✓ Aplicar voltou a funcionar depois de mover ou redimensionar um desenho (antes o desenho sumia).\n- LumenDraw: desfazer no meio de um movimento cancela e devolve o desenho; sair do projeto com um movimento pendente aplica em vez de perder.\n- Página de download: notas de cada versão embaixo dos gráficos e uma frase sobre o que cada app faz na linha do tempo.\n\nApp gerado por IA (Claude, da Anthropic)."
   }
  ]
 }
