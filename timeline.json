@@ -5,63 +5,72 @@
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "📖"
+   "icon": "📖",
+   "desc": "Escrita de livros e roteiros"
   },
   {
    "name": "LumenDraw",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "🎨"
+   "icon": "🎨",
+   "desc": "Desenho e animação"
   },
   {
    "name": "LumenEditor",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "🎬"
+   "icon": "🎬",
+   "desc": "Edição de vídeo, músicas e efeitos sonoros"
   },
   {
    "name": "Pulsar",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "🎮"
+   "icon": "🎮",
+   "desc": "Jogos do PC no celular"
   },
   {
    "name": "PulsarTV",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "📺"
+   "icon": "📺",
+   "desc": "Streamings e seus vídeos num lugar só"
   },
   {
    "name": "Roylo Chat",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "💬"
+   "icon": "💬",
+   "desc": "Roleplay com IA"
   },
   {
    "name": "Roylo Novel",
    "t": 1795304508000,
    "v": "2026.11.21-2037",
    "orig": false,
-   "icon": "📚"
+   "icon": "📚",
+   "desc": "Visual novel com IA"
   },
   {
    "name": "LumenCoder",
    "t": 1795379104000,
    "v": "2026.11.22-1720",
    "orig": false,
-   "icon": "💻"
+   "icon": "💻",
+   "desc": "Programação em Python e web, jogos 2D/3D, apps para PC e Android e mods"
   },
   {
    "name": "LumenModel3D",
    "t": 1795439337506,
    "v": "2026.11.23-1004",
    "orig": false,
-   "icon": "🧊"
+   "icon": "🧊",
+   "desc": "Modelagem e animação 3D leve: desenhos de turnaround viram modelos 3D"
   }
  ]
 }
