@@ -71,6 +71,30 @@
    "orig": false,
    "icon": "🧊",
    "desc": "Modelagem e animação 3D leve: desenhos de turnaround viram modelos 3D"
+  },
+  {
+   "name": "Elemental Arena",
+   "t": 1795460258000,
+   "v": "2026.11.23-1554",
+   "orig": false,
+   "icon": "🔥",
+   "desc": "Jogo de luta em arena 3D com elementos: história, arcade, cidade e minigames"
+  },
+  {
+   "name": "Nova",
+   "t": 1795460258000,
+   "v": "2026.11.23-1554",
+   "orig": false,
+   "icon": "🌟",
+   "desc": "Criador de jogos de luta tradicionais: 1 contra 1 com rounds, especiais e supers"
+  },
+  {
+   "name": "Quasar",
+   "t": 1795460258000,
+   "v": "2026.11.23-1554",
+   "orig": false,
+   "icon": "✴️",
+   "desc": "Criador de jogos de luta de plataforma: crie lutadores, fases e itens"
   }
  ]
 }
