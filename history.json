@@ -72,6 +72,25 @@
     "PulsarTV"
    ],
    "notes": "Versão 2026.11.23-1119\n\nArquivos:\n- Polar.apk (2.4 MB)\n- Polar-Setup.exe (139.9 MB)\n- Polar-PC.zip (200.6 MB)"
+  },
+  {
+   "t": 1795460323222,
+   "v": "2026.11.23-1554",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "Novidades no Polar:\n- Aba Games no PC e no celular: Elemental Arena, Quasar (antes Forja de Lutadores) e o novo Nova.\n- Nova: criador de jogos de luta tradicionais (1 contra 1, rounds, defesa, especiais com meia-lua e shoryuken, barra de super).\n- Quasar e Nova: modos do MUGEN e do IKEMEN: Arcade, Versus, Team Arcade, Team Versus, Team Co-op, Survival, Survival Co-op, Treino, Time Attack, Score Challenge, Boss Rush, VS. 100 Kumite e jogo em rede (LAN). Equipes Single, Simul, Turns e Tag.\n- Compartilhar conteúdo: personagens, fases, itens e assistentes viram um pacote que abre no Quasar e no Nova (arquivo, WhatsApp, Drive ou pela sala LAN).\n- Jogos em tela cheia dentro do Polar (F11).\n- O Polar abre maximizado quando o PC liga.\n- LumenModel3D: conversão de turnaround para 3D refeita e IA local (TripoSR) que roda sem placa de vídeo.\n- LumenCoder: IA local para criar código, sem placa de vídeo.\n- Instalador novo com o visual do Polar e a etapa Conteúdo extra, para já instalar modelos de IA e ferramentas."
   }
  ]
 }
