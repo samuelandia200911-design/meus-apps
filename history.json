@@ -91,6 +91,25 @@
     "Nova"
    ],
    "notes": "Novidades no Polar:\n- Aba Games no PC e no celular: Elemental Arena, Quasar (antes Forja de Lutadores) e o novo Nova.\n- Nova: criador de jogos de luta tradicionais (1 contra 1, rounds, defesa, especiais com meia-lua e shoryuken, barra de super).\n- Quasar e Nova: modos do MUGEN e do IKEMEN: Arcade, Versus, Team Arcade, Team Versus, Team Co-op, Survival, Survival Co-op, Treino, Time Attack, Score Challenge, Boss Rush, VS. 100 Kumite e jogo em rede (LAN). Equipes Single, Simul, Turns e Tag.\n- Compartilhar conteúdo: personagens, fases, itens e assistentes viram um pacote que abre no Quasar e no Nova (arquivo, WhatsApp, Drive ou pela sala LAN).\n- Jogos em tela cheia dentro do Polar (F11).\n- O Polar abre maximizado quando o PC liga.\n- LumenModel3D: conversão de turnaround para 3D refeita e IA local (TripoSR) que roda sem placa de vídeo.\n- LumenCoder: IA local para criar código, sem placa de vídeo.\n- Instalador novo com o visual do Polar e a etapa Conteúdo extra, para já instalar modelos de IA e ferramentas."
+  },
+  {
+   "t": 1795477520927,
+   "v": "2026.11.23-2041",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "What's new in Polar:\n- Polar's language now applies to the apps inside it, and apps have a ⚙ button in Polar that opens their settings.\n- Quasar and Nova: every screen works on phones (compact layout that scrolls).\n- Quasar and Nova: sprite sheet importer that removes the background and cuts the frames by itself.\n- LumenDraw: free comic fonts and sound-effect text (no balloon) for comics; soft parts in the rig that swing by themselves (hair, clothes, tails).\n- LumenBook: font, size, text color and highlight for the selected text, more book fonts and your own fonts.\n- A warning when a font is missing letters of a language (like accents).\n- LumenModel3D: rig with bones (human skeleton, automatic weights, poses with keys), soft bones and object physics (fall, bounce and hit, recorded as keys).\n- LumenModel3D AI: choose the model and the folder where it is saved; it uses its own Python 3.12 if the PC's Python is not compatible.\n- Roylo Chat and Roylo Novel: option lists always open (also on phones), \"Straight\" option and a new relationship: both like each other but are too shy to say it.\n- The download page on GitHub is now in English."
   }
  ]
 }
