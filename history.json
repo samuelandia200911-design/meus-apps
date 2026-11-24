@@ -167,6 +167,25 @@
     "Nova"
    ],
    "notes": "New in Polar:\n- Comet now has online co-op on the local network (LAN): up to 4 players across PCs and phones on the same Wi-Fi, mixed with local players and CPU allies.\n- The PC hosts the room and picks the mode (Story, Single stage or Survival), the stage, difficulty and lives. Phones join from Co-op on the network.\n- Characters and stages you created are sent to the other devices automatically."
+  },
+  {
+   "t": 1795535154940,
+   "v": "2026.11.24-1242",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "Versão 2026.11.24-1242\n\nArquivos:\n- Polar.apk (4.5 MB)\n- Polar-Setup.exe (141.1 MB)\n- Polar-PC.zip (202.8 MB)"
   }
  ]
 }
