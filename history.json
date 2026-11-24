@@ -148,6 +148,25 @@
     "Nova"
    ],
    "notes": "New in Polar:\n- LumenModel3D on the phone can now use the AI of your PC for Turnaround models. The phone sends the front drawing, the PC processor makes the volume and sends it back.\n- Inside Polar it connects by itself when the phone is linked to the PC. Outside Polar: Turnaround > Use the AI of your PC, find the PC on the Wi-Fi and type the code shown on the PC (AI model and folder > Phone).\n- From the phone you can also install the AI on the PC, switch the model and download it. Folders are still changed on the PC."
+  },
+  {
+   "t": 1795530840656,
+   "v": "2026.11.24-1130",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "New in Polar:\n- Comet now has online co-op on the local network (LAN): up to 4 players across PCs and phones on the same Wi-Fi, mixed with local players and CPU allies.\n- The PC hosts the room and picks the mode (Story, Single stage or Survival), the stage, difficulty and lives. Phones join from Co-op on the network.\n- Characters and stages you created are sent to the other devices automatically."
   }
  ]
 }
