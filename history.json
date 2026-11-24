@@ -186,6 +186,25 @@
     "Nova"
    ],
    "notes": "Versão 2026.11.24-1242\n\nArquivos:\n- Polar.apk (4.5 MB)\n- Polar-Setup.exe (141.1 MB)\n- Polar-PC.zip (202.8 MB)"
+  },
+  {
+   "t": 1795559337841,
+   "v": "2026.11.24-1923",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "What's new:\n- Polar: control the PC screen from the phone (Desktop mode with touchpad or direct touch, and a phone mode where each PC window works like an app), with keyboard, shortcuts, sound and a notice on the PC while it is being controlled.\n- Polar: the same options on the PC and on the phone, allowing apps in the Windows firewall from the phone, quick access to closing background processes, and phone apps by QR code.\n- Roylo Chat and Roylo Novel: a built-in photo reader AI (SmolVLM) that describes realistic photos and drawings for the appearance field, with no download.\n- Cosmos: flat world with custom layers, a softer default block, different textures on each side of a block, multiple versions with their own content and worlds, and modpacks (file, Wi-Fi or link).\n- LumenModel3D: AI generation queue and an optional advanced guide that grows with every new feature.\n\nThis app was made with AI (Claude by Anthropic)."
   }
  ]
 }
