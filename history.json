@@ -110,6 +110,25 @@
     "Nova"
    ],
    "notes": "What's new in Polar:\n- Polar's language now applies to the apps inside it, and apps have a ⚙ button in Polar that opens their settings.\n- Quasar and Nova: every screen works on phones (compact layout that scrolls).\n- Quasar and Nova: sprite sheet importer that removes the background and cuts the frames by itself.\n- LumenDraw: free comic fonts and sound-effect text (no balloon) for comics; soft parts in the rig that swing by themselves (hair, clothes, tails).\n- LumenBook: font, size, text color and highlight for the selected text, more book fonts and your own fonts.\n- A warning when a font is missing letters of a language (like accents).\n- LumenModel3D: rig with bones (human skeleton, automatic weights, poses with keys), soft bones and object physics (fall, bounce and hit, recorded as keys).\n- LumenModel3D AI: choose the model and the folder where it is saved; it uses its own Python 3.12 if the PC's Python is not compatible.\n- Roylo Chat and Roylo Novel: option lists always open (also on phones), \"Straight\" option and a new relationship: both like each other but are too shy to say it.\n- The download page on GitHub is now in English."
+  },
+  {
+   "t": 1795479111933,
+   "v": "2026.11.23-2107",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "Versão 2026.11.23-2107\n\nArquivos:\n- Polar.apk (4.4 MB)\n- Polar-Setup.exe (141.0 MB)\n- Polar-PC.zip (202.7 MB)"
   }
  ]
 }
