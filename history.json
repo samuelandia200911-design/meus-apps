@@ -129,6 +129,25 @@
     "Nova"
    ],
    "notes": "Versão 2026.11.23-2107\n\nArquivos:\n- Polar.apk (4.4 MB)\n- Polar-Setup.exe (141.0 MB)\n- Polar-PC.zip (202.7 MB)"
+  },
+  {
+   "t": 1795530093202,
+   "v": "2026.11.24-1117",
+   "apps": [
+    "LumenDraw",
+    "LumenBook",
+    "LumenEditor",
+    "LumenCoder",
+    "LumenModel3D",
+    "Roylo Chat",
+    "Roylo Novel",
+    "Pulsar",
+    "PulsarTV",
+    "Elemental Arena",
+    "Quasar",
+    "Nova"
+   ],
+   "notes": "New in Polar:\n- LumenModel3D on the phone can now use the AI of your PC for Turnaround models. The phone sends the front drawing, the PC processor makes the volume and sends it back.\n- Inside Polar it connects by itself when the phone is linked to the PC. Outside Polar: Turnaround > Use the AI of your PC, find the PC on the Wi-Fi and type the code shown on the PC (AI model and folder > Phone).\n- From the phone you can also install the AI on the PC, switch the model and download it. Folders are still changed on the PC."
   }
  ]
 }
